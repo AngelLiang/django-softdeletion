@@ -12,6 +12,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     platforms='any',
+    url="https://github.com/AngelLiang/django-softdeletion",
     zip_safe=False,
     packages=['django_softdeletion'],  # 包含的包列表
     include_package_data=True,
