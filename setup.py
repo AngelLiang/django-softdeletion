@@ -6,7 +6,7 @@ with open(os.path.join(os.path.dirname(__file__), 'README.md'), encoding='utf-8'
 
 setup(
     name='django_softdeletion',  # 包名称
-    version='0.1.0',  # 版本
+    version='0.1.1',  # 版本
     license='MIT',
     description='django softdeletion',
     long_description=long_description,
