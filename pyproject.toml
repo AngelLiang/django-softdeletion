@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "django-softdeletion"
+version = "0.1.2"
+description = ""
+authors = ["AngelLiang <ynanxiu@qq.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+Django = "^2.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
